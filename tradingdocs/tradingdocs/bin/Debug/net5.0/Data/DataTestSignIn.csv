@@ -1,0 +1,5 @@
+﻿name,username,password,email,phoneNumber,checkBox
+Nguyễn Văn A, vana, 123456, vana@gmail.com, 012345678, male
+Trần thị B, TrucLy, 123456, ly@gmail.com, 012345678, female
+Nguyễn Ngọc C,TrucLy, 123456, ngan@gmail.com, 012345678, female
+Hoàng Văn D, HoangHa, 123456, ha@gmail.com, 012345677, male
